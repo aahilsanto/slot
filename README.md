@@ -97,7 +97,7 @@ Execute the program using runserver command.
 
         </pre>      
         <table border="1" cellspacing="15" cellpadding="2" align="center">
-        <caption>Timetable  NAME:A AHIL SANTO    REF.NO:24900087</caption>
+        <caption>Courses  NAME:A AHIL SANTO    REF.NO:24900087</caption>
         <tr bgcolor="grey">
             <td>s.no</td>
             <td colspan="2">subject code </td>
@@ -153,7 +153,7 @@ Execute the program using runserver command.
 
 ## OUTPUT
 
-![alt text](SLOT.png)
+![alt text](slottiming.png)
 
 ## RESULT
 The program for creating slot timetable using basic HTML tags is executed successfully.
